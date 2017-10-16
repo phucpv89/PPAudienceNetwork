@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PPAudienceNetwork_Tests' do
+  pod 'PPAudienceNetwork', :path => '../'
+  
+  
+end

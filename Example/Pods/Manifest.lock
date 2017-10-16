@@ -1,0 +1,16 @@
+PODS:
+  - PPAudienceNetwork (0.1.0)
+
+DEPENDENCIES:
+  - PPAudienceNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  PPAudienceNetwork:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PPAudienceNetwork: 7247e394b588028835ec9fe1d829adee7d095d5e
+
+PODFILE CHECKSUM: b9c786a0ccac91d6bc535c23617f92e4fc7b0c37
+
+COCOAPODS: 1.2.1

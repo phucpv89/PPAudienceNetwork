@@ -1,0 +1,6 @@
+framework module Pods_PPAudienceNetwork_Tests {
+  umbrella header "Pods-PPAudienceNetwork_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

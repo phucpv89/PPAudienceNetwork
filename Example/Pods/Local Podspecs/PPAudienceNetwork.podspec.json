@@ -1,0 +1,22 @@
+{
+  "name": "PPAudienceNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of PPAudienceNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/phucpv89@gmail.com/PPAudienceNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "phucpv89@gmail.com": "phucpv@vng.com.vn"
+  },
+  "source": {
+    "git": "https://github.com/phucpv89@gmail.com/PPAudienceNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PPAudienceNetwork/Classes/**/*"
+}

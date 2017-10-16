@@ -1,0 +1,6 @@
+framework module PPAudienceNetwork {
+  umbrella header "PPAudienceNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
